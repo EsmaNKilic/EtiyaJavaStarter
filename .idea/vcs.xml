@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/EtiyaJavaStarter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/arraysDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/arraysDemo2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/conditionals" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/datatypes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/helloWorld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ifelseDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/loopDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/methods" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/methods2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/miniProjeArkadasSayilar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/miniProjeAsalSayi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/miniProjeMukemmelSayi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/miniProjeSayiBulma" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/miniProjeSesliHarfler" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/multiDimensionalArray" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/strings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/switchDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/variables" vcs="Git" />
+  </component>
+</project>
